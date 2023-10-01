@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgreen;
+    font-family: sans-serif;
+}
+.container
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+h3
+{
+    font-size: 30px;
+}
+input
+{
+    height: 30px;
+    font-size: 20px;
+    
+}
+button
+{
+    font-size: 20px;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    color:red;
+    
+}
+p
+{
+    font-size: 20px;
+}
